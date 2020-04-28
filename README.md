@@ -1,6 +1,6 @@
 # dynamic-import-example
 
-:ledger: Testing ECMAScript 2002 Dynamic Import
+:ledger: Testing ECMAScript 2020 Dynamic Import
 
 ## Demo 🎉
 
