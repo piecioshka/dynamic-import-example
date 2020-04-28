@@ -1,0 +1,16 @@
+{
+    "name": "dynamic-import-example",
+    "version": "1.0.0",
+    "description": "",
+    "author": "Piotr Kowalski <piecioshka@gmail.com> (https://piecioshka.pl)",
+    "license": "MIT",
+    "scripts": {
+        "start": "http-server app/",
+        "deploy": "cross-env NODE_DEBUG=gh-pages gh-pages -d app/"
+    },
+    "devDependencies": {
+        "cross-env": "^7.0.2",
+        "gh-pages": "^2.2.0",
+        "http-server": "^0.12.3"
+    }
+}
