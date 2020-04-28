@@ -2,6 +2,12 @@
 
 :ledger: Testing ECMAScript 2002 Dynamic Import
 
+## Demo 🎉
+
+<https://piecioshka.github.io/dynamic-import-example/>
+
+## Usage
+
 ```js
 // main.js
 document.querySelector('button').addEventListener('click', async () => {
