@@ -1,10 +1,10 @@
-# dynamic-import-example
+# test-dynamic-imports
 
-:ledger: Testing ECMAScript 2020 Dynamic Import
+:ledger: Testing ECMAScript 2020 Dynamic Imports
 
 ## Demo 🎉
 
-<https://piecioshka.github.io/dynamic-import-example/>
+<https://piecioshka.github.io/test-dynamic-imports/>
 
 ## Usage
 
