@@ -2,7 +2,11 @@
     "name": "dynamic-import-example",
     "version": "1.0.0",
     "description": "",
-    "author": "Piotr Kowalski <piecioshka@gmail.com> (https://piecioshka.pl)",
+    "author": {
+        "name": "Piotr Kowalski",
+        "email": "piecioshka@gmail.com",
+        "url": "https://piecioshka.pl/"
+    },
     "license": "MIT",
     "scripts": {
         "start": "http-server app/",
