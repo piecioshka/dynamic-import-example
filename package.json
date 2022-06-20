@@ -13,8 +13,8 @@
         "deploy": "cross-env NODE_DEBUG=gh-pages gh-pages -d app/"
     },
     "devDependencies": {
-        "cross-env": "^7.0.2",
-        "gh-pages": "^2.2.0",
-        "http-server": "^0.12.3"
+        "cross-env": "^7.0.3",
+        "gh-pages": "^4.0.0",
+        "http-server": "^14.1.1"
     }
 }
