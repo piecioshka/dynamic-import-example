@@ -2,7 +2,7 @@
 
 :ledger: Testing ECMAScript 2020 Dynamic Imports
 
-## Demo 🎉
+## Preview 🎉
 
 <https://piecioshka.github.io/test-dynamic-imports/>
 
